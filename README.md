@@ -26,7 +26,7 @@ EfficientNetB0, the baseline model in the EfficientNet family, typically consist
 ## Installation and Usage
 1. git clone this repository https://github.com/Vojaspy/Deep-Learning-Project
 2. Download the tea leaves disese dataset from the link https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs
-3. Upload the notebook in Google Colab or Kaggle and run the notebook on GPU
+3. Upload the notebook deep-learning-project-identify-disease-in-tea-leaves.ipynb in Google Colab or Kaggle and run the notebook on GPU
 
 
 
