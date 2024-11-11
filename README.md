@@ -1,7 +1,17 @@
 # Identify Disease in Tea Leaves
 
 ## Description
-This repository contains code for a deep learning project that implements various convolutional neural network (CNN) architectures including VGG, ResNet, and EfficientNet. These architectures are widely used for image classification tasks due to their effectiveness in learning complex features from images.
+This project aims to classify diseases in tea leaves using a deep learning model. The dataset contains images of tea leaves with seven different disease types, in addition to healthy leaves. The model is trained to distinguish between healthy leaves and those affected by specific diseases.
+
+## Project Overview
+Tea leaf diseases can significantly impact tea production, and early identification is crucial for effective management. This project uses convolutional neural networks (CNNs) to build a classifier that detects multiple diseases affecting tea leaves. The structure includes preprocessing images, training a deep learning model, and evaluating its performance on the dataset.
+
+
+## Key Features
+- **Image Preprocessing** : Utilizes Pandas, Matplotlib for loading, displaying, and examining images, which are then processed for model input.
+- **Dataset Exploration** : Includes exploratory analysis of the dataset, such as visualizing sample images and counting the total images across seven disease categories plus healthy leaves.
+- **Model Training** : Implements various models using TensorFlow/Keras, optimized for disease classification in tea leaves.
+- **Evaluation Metrics** : Measures model accuracy and loss, with visualizations to track training performance.
 
 
 ## Models Used
